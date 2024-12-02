@@ -1,5 +1,16 @@
-{
-  "Example": "https://example.com",
-  "Adobe": "https://firefly.adobe.com",
-  "Icons": "https://icons.getbootstrap.com"
-}
+[
+  "https://example.com",
+  "https://firefly.adobe.com",
+  "https://icons.getbootstrap.com",
+  "https://material-foundation.github.io/material-theme-builder",
+  "https://icons8.com/icons",
+  "https://search.f-droid.org",
+  "https://fonts.google.com",
+  "https://elevenlabs.io",
+  "https://css-pattern.com",
+  "https://github.com/dashboard",
+  "https://unsplash.com",
+  "https://m.happymod.com",
+  "https://regexr.com",
+  "https://haikei.app"
+]
